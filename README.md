@@ -27,5 +27,15 @@
                              |__/         |___/          
 
 
+<br/>
+
+
 # 文章列表
 [2025-01-28-Typescript 中的各種 Enum ](https://github.com/riverkuo/blog/issues/1)
+
+<br/>
+
+# UPDATE
+
+### 2025-03-28 
+正在嘗試幫文章加上目錄，但目前好像沒有辦法成功，請大家就先忽略目錄吧～
