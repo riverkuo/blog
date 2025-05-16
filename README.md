@@ -31,7 +31,9 @@
 
 
 # 文章列表
-[2025-01-28-Typescript 中的各種 Enum ](https://github.com/riverkuo/blog/issues/1)
+[2025-05-17-Github Actions + Nginx + GCE VM + GoDaddy + SSL 部署多個 React、Next（PM2）專案〖全記錄〗](https://github.com/riverkuo/blog/issues/2)
+
+[2025-01-28-Typescript 中的各種 Enum](https://github.com/riverkuo/blog/issues/1)
 
 <br/>
 
