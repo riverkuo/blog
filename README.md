@@ -31,6 +31,8 @@
 
 
 # 文章列表
+[2025-06-08-Github Actions 部署推播通知到 Discord](https://github.com/riverkuo/blog/issues/4)
+
 [2025-05-31-開發實用工具與技巧-個人篇](https://github.com/riverkuo/blog/issues/3)
 
 [2025-05-17-Github Actions + Nginx + GCE VM + GoDaddy + SSL 部署多個 React、Next（PM2）專案〖全記錄〗](https://github.com/riverkuo/blog/issues/2)
